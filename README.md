@@ -2,7 +2,7 @@
 
 A guide to select HuggingFace models and a demo of the use of HuggingFace API. 
 
-The first part is the guide. The second part is the [demo code](./HuggingFace_Pipeline_demo.ipynb).
+The first part is the guide. The second part is the [demo code](./HuggingFace_Pipeline_demo.ipynb), or [Colab](https://colab.research.google.com/gist/chinhang0104/e3ac7735c10a4fccd40d23c1daaa792e/huggingface-pipeline-demo.ipynb). 
 
 ## Guide
 
@@ -70,7 +70,7 @@ Instruction-tuned:
 
 The models are fine-tuned using textual instructions.
 
-https://arxiv.org/abs/2109.01652
+To learn more: https://arxiv.org/abs/2109.01652
 
 RL-tuned: 
 
@@ -80,7 +80,7 @@ This enables engineers a way to control the output of models.
 
 A reward model is trained to imitate human scoring to reinforce learning. 
 
-https://huggingface.co/blog/rlhf
+To learn more: https://huggingface.co/blog/rlhf
 
 Precision: Support of lower bit precision will reduce the use of memory and space, and speed up models, but may lead to lower performance.  
 
@@ -89,5 +89,5 @@ Model size: A larger model is more capable in theory, but requires more memory, 
 ## Demo
 Also, we can use the Hugging Face pipeline, which offers a simple API and is good for testing a blench of models. 
 
-Here is a [demo notebook](./HuggingFace_Pipeline_demo.ipynb) using the HuggingFace pipeline API.
+Here is a [demo notebook](./HuggingFace_Pipeline_demo.ipynb), or [Colab](https://colab.research.google.com/gist/chinhang0104/e3ac7735c10a4fccd40d23c1daaa792e/huggingface-pipeline-demo.ipynb) using the HuggingFace pipeline API.
  
