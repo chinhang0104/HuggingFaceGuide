@@ -89,5 +89,5 @@ Model size: A larger model is more capable in theory, but requires more memory, 
 ## Demo
 Also, we can use the Hugging Face pipeline, which offers a simple API and is good for testing a blench of models. 
 
-Here is a [demo notebook](./HuggingFace_Pipeline_demo.ipynb), or [Colab](https://colab.research.google.com/gist/chinhang0104/e3ac7735c10a4fccd40d23c1daaa792e/huggingface-pipeline-demo.ipynb) using the HuggingFace pipeline API.
+Here is a [demo notebook]](https://colab.research.google.com/gist/chinhang0104/66888f6bcde511acbbe2fc3000f7c5d9/huggingface-pipeline-demo.ipynb) using the HuggingFace pipeline API.
  
