@@ -2,7 +2,7 @@
 
 A guide to select HuggingFace models and a demo of the use of HuggingFace API. 
 
-The first part is the guide. The second part is the [demo code](./HuggingFace_Pipeline_demo.ipynb), or [Colab](https://colab.research.google.com/gist/chinhang0104/e3ac7735c10a4fccd40d23c1daaa792e/huggingface-pipeline-demo.ipynb). 
+The first part is the guide. The second part is the [demo notebook](https://colab.research.google.com/gist/chinhang0104/66888f6bcde511acbbe2fc3000f7c5d9/huggingface-pipeline-demo.ipynb). 
 
 ## Guide
 
