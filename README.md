@@ -2,7 +2,7 @@
 
 A guide to select HuggingFace models and a demo of the use of HuggingFace API. 
 
-The first part is the guide. The second part is the [demo notebook](##-Demo). 
+The first part is the guide. The second part is the [demo notebook](#Demo). 
 
 ## Guide
 
