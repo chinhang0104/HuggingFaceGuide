@@ -2,7 +2,7 @@
 
 A guide to select HuggingFace models and a demo of the use of HuggingFace API. 
 
-The first part is the guide. The second part is the [demo notebook](https://colab.research.google.com/gist/chinhang0104/66888f6bcde511acbbe2fc3000f7c5d9/huggingface-pipeline-demo.ipynb). 
+The first part is the guide. The second part is the [demo notebook](##-Demo). 
 
 ## Guide
 
@@ -89,5 +89,5 @@ Model size: A larger model is more capable in theory, but requires more memory, 
 ## Demo
 Also, we can use the Hugging Face pipeline, which offers a simple API and is good for testing a blench of models. 
 
-Here is a [demo notebook](https://colab.research.google.com/gist/chinhang0104/66888f6bcde511acbbe2fc3000f7c5d9/huggingface-pipeline-demo.ipynb) using the HuggingFace pipeline API.
+Here is a [demo notebook](https://colab.research.google.com/gist/chinhang0104/66888f6bcde511acbbe2fc3000f7c5d9/huggingface-pipeline-demo.ipynb) using the HuggingFace pipeline API, and here is a demo related to [finetuning model](https://colab.research.google.com/gist/chinhang0104/1a8c4fde09d230ffdf3b3a9ebb0c068a/huggingface-finetuning.ipynb).
  
